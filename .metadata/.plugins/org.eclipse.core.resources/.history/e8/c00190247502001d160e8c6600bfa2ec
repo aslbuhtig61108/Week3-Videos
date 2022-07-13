@@ -1,0 +1,16 @@
+
+public class Students {
+
+	public static void main(String[] args) {
+		// In Weeek 1, I learned how to create variables that can hold one type of data at a time
+		// But you may be asked to create a program where you need to save students names or grades
+		// or personal information
+		// You may be asked to hold more data. Metadata of data 
+		// (e.g., personal information of a person
+		
+		String studentName = "Tom Sawyer";
+		String studentName = "Tom Sawyer";
+		String studentName = "Tom Sawyer";
+	}
+
+}
